@@ -1,0 +1,11 @@
+index_name,Special Additions,Does it bond with other amino acids change?,Original AA,Number,New AA,OG AA Properties,New AA Properties,"R group differences (scale of 1 to 3), 3 being the worst",,secondary structure,How close to change in secondary structure?,Length of piece mutation is on,iso_point,Evolutionary Time,pdel,I-Mutant 3.0 ??G,Mupro ??G,INPS ??G,"R group similarities (3 means most different) 1 point for different elements, 1 for the direction it goes, 1 for ring",Direction it is closest to,(Scale 1-9) https://consurfdb.tau.ac.il/main_output.php?pdb_ID=3J07&view_chain=B&unique_chain=2KLRA,Positive or Negative?
+H7Y,,t,Histidine,7,Tyrosine,"H,+",n,2,,Helix,3,7,6.71,750,0.74,0.22,-0.20428508,0.677471,2,left,5,Pathogenetic
+G29R,a,c,Glycine,29,Arginine,"n,G",+,2,,Helix,7,13,7.15,1036,0.85,-0.29,-0.43724755,0.686897,2,equal,5,Pathogenetic
+R107H,,c,Arginine,107,Histidine,+,"H,+",3,,Sheet,2,12,6.55,750,0.74,-1.17,-1.019005,-0.900314,3,right,7,Pathogenetic
+P39Q,"s,a",o,Proline,39,Glutamine,"P,n",I,3,,Loop,4,42,6.76,455,0.57,-0.63,-0.58728956,0.0673133,2,left,3,Benign
+D109G,,c,Aspartic Acid,109,Glycine,"H, -",n,2,,Loop,1,3,7.15,750,0.74,-0.9,-1.1286967,-0.803054,2,left,8,Pathogenetic
+G154S,a,o,Glycine,154,Serine,"G,n",I,2,,Loop,8,34,6.76,324,0.5,-1.29,-0.62750394,0.542864,2,left,1,Benign
+K174N,,c,Lysine,174,Asparagine,+,I,2,,Loop,7,34,6.5,176,0.27,-0.07,0.028171406,-0.170343,2,right,5,Pathogenetic
+P167A,"s,a",o,Proline,167,Alanine,"P,n",n,2,,Loop,14,34,6.76,750,0.74,-0.98,-1.0010934,0.087997,2,right,6,Benign
+R163H,,c,Arginine,163,Histidine,+,"H,+",3,,Loop,17,34,6.55,750,0.74,-0.91,-0.76181043,-0.229538,3,right,4,Pathogenetic
+P13T,"s,a",o,Proline,13,Threonine,n,I,3,,Loop,1,2,6.76,456,0.57,-1.01,-1.4519455,0.178888,2,right,1,Pathogenetic
