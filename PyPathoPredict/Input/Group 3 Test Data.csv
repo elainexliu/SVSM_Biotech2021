@@ -1,0 +1,12 @@
+index_name,ogAA_letter,Mutation Position,mutAA_letter,Polarity,deldel_g1,deldel_g2,iso_point,pdel,evo_age,conservation_values,deldel_g3,Prediction
+K174N,K,174,N,Polar,-0.07,0.028171406,6.5,0.27,176,5,0.045372,Negative
+R123W,R,123,W,Non-polar,-0.57,-0.84173941,6.5,0.5,324,3,-0.412668,Positive
+G154D,G,154,D,Polar,-0.92,-0.59804466,6.5,0.5,324,1,-0.22038,Positive
+P167A,P,167,A,Non-polar,-0.98,-1.0010934,6.76,0.74,750,7,0.0596039,Negative
+R163C,R,163,C,Polar,-0.55,-0.25436642,6.5,0.74,750,4,-0.10926505,Positive
+I161T,I,161,T,Polar,-1.93,-1.648993,6.76,0.57,455,9,-1.8008275,Positive
+V145L,V,145,L,Non-polar,-1.43,-0.35512451,6.76,0.5,361,7,-0.9648365,Negative
+L143F,L,143,F,Non-polar,-1.24,-0.68527394,6.76,0.95,4200,9,-1.9214,Negative
+F118S,F,118,S,Polar,-1.95,-2.1036122,6.76,0.95,4200,9,-2.48054,Positive
+S136T,S,136,T,Polar,-0.56,-0.54803748,6.76,0.5,361,6,0.0077495,Negative
+P58A,P,58,A,Non-polar,-1.51,-1.2258783,6.76,0.57,456,1,-0.162549,Positive

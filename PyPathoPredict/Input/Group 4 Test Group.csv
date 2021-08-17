@@ -1,0 +1,9 @@
+index_name,OG AA,Mutation Position,Mutated AA,Attribute 1- OG AA,Attribute 1- Mutated AA,Attribute 2 - OG AA,Attribute 2 - Mutated AA,iso_point,Mupro-DDG,INPS DDG,INPS 3D DDG,Preservation Time,pdel,Conservation Time,Our Prediction
+K174N,K,107,N,+,l,b,s,6.5,,-0.170343,0.287632,176,0.27,5,positive
+P167A,P,100,A,P,n,r,same size,6.76,,0.087997,0.4782835,750,0.74,6,negative?
+R163C,R,163,C,+,C,b,s,6.5,,-0.251712,-0.9648365,750,0.74,4,positive
+P51L,P,51,L,P,n,r,b,6.76,,0.774774,-0.532299,176,0.27,8,negative
+G154D,G,154,D,G,-,s,b,6.5,,0.13947,-0.22038,324,0.5,6,positive?
+S153F,S,153,F,l,n,same size,r,6.76,,-0.453465,-0.10926505,176,0.27,1,negative
+V145L,V,154,L,n,n,s,b,6.76,,-0.745963,0.0596039,361,0.5,7,negative
+G29R,G,29,R,G,+,s,b,7.15,,0.686897,0.045372,1036,0.85,5,positive

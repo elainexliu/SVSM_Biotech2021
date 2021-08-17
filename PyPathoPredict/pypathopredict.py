@@ -1,9 +1,12 @@
 import pandas as pd
 import numpy as np
+import sklearn
 from sklearn.svm import SVC
-from os import listdir, path
+from os import listdir, path, chdir, getcwd
 import pickle
 
+if not path.exists('final_model.pkl'):
+    chdir('..')
 with open("final_model.pkl", "rb") as f:
     model = pickle.load(f)
 

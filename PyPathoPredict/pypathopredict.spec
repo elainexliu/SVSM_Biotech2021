@@ -5,10 +5,10 @@ block_cipher = None
 
 
 a = Analysis(['pypathopredict.py'],
-             pathex=['/Users/Michael/Documents/work/2021-UNCW-SVSM/SVSM_Biotech2021/PyPathoPredict'],
+             pathex=['C:\\Users\\sdcsa\\OneDrive\\Documents\\GitHub\\svsm_biotech\\PyPathoPredict'],
              binaries=[],
              datas=[],
-             hiddenimports=[],
+             hiddenimports=['sklearn.utils._weight_vector'],
              hookspath=[],
              hooksconfig={},
              runtime_hooks=[],
